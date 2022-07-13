@@ -8,3 +8,8 @@
 	url = https://github.com/shians/cellbench
 	shallow = true
 	registered = true
+[submodule "Glimma"]
+	path = Glimma
+	url = https://github.com/shians/glimma
+	shallow = true
+	registered = true
