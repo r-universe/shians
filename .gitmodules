@@ -8,8 +8,3 @@
 	url = https://github.com/shians/cellbench
 	shallow = true
 	registered = true
-[submodule "NanoMethViz"]
-	path = NanoMethViz
-	url = https://github.com/shians/nanomethviz
-	shallow = true
-	registered = true
