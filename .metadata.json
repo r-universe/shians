@@ -1,8 +1,8 @@
 [
   {
-    "package": "NanoMethViz"
+    "package": "CellBench"
   },
   {
-    "package": "CellBench"
+    "package": "NanoMethViz"
   }
 ]

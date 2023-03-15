@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "NanoMethViz"]
-	path = NanoMethViz
-	url = https://github.com/shians/nanomethviz
-	shallow = true
-	registered = true
 [submodule "CellBench"]
 	path = CellBench
 	url = https://github.com/shians/cellbench
+	shallow = true
+	registered = true
+[submodule "NanoMethViz"]
+	path = NanoMethViz
+	url = https://github.com/shians/nanomethviz
 	shallow = true
 	registered = true
